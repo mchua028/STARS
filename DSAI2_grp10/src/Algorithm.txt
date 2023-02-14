@@ -1,0 +1,8 @@
+Algorithm
+2001
+3
+spms
+courseIndex1003,Total Size:10,Vacancy:10,Lecture Day:1,Lecture Start Time:8,Lecture End Time:9,Tutorial Day:2,Tutorial Start Time:9,Tutorial End Time:10,Lab Day:3,Lab Start Time:10,Lab End Time:11
+courseIndex1002,Total Size:5,Vacancy:5,Lecture Day:1,Lecture Start Time:8,Lecture End Time:9,Tutorial Day:2,Tutorial Start Time:9,Tutorial End Time:10,Lab Day:3,Lab Start Time:10,Lab End Time:11
+CourseId1003
+CourseId1002

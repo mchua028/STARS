@@ -1,0 +1,17 @@
+KUCHING EW|kch123|U1940123A|female|Singaporean
+HUANG XIAO MING|hxm123|U1940234B|male|Singaporean
+BRUCE LEE|bl123|U1940345C|male|Taiwanese
+BEN TAN|bt123|U1940346A|male|Australian
+TAN XIN YI|txy123|U1940567F|female|Singaporean
+LIU WING LAM|lwl123|U1940678D|female|Singaporean
+YEO JEREMY|yj123|U1940789A|male|Singaporean
+CHEN BOING|cb123|U1940654D|male|Singaporean
+RAVI CHANDRA|rc834|U19724024R|male|Indian
+NG AH MENG|nam24|U29147132A|male|Chinese
+ALEXIS TAN|at123|U1782952A|male|Singaporean
+AUDREY LIM|alm245|U2984143S|male|Singaporean
+TAN AH BENG|tab123|U18248194S|male|Singaporean
+CHUA MING HUI|mchua028|U1940562A|female|Singaporean
+YEE AN QI|ayee004|U1940522A|female|Singaporean
+NG PEK HAN|m190083|U192149F|female|Singaporean
+CHUA MING HUI|mchua028|U1940562A|female|Singaporean

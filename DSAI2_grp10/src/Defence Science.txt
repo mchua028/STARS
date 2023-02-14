@@ -1,0 +1,6 @@
+Defence Science
+PS8001
+3
+SPMS
+courseIndex70185,Total Size:20,Vacancy:20,Lecture Day:6,Lecture Start Time:1700,Lecture End Time:1800,Tutorial Day:0,Tutorial Start Time:0,Tutorial End Time:0,Lab Day:0,Lab Start Time:0,Lab End Time:0
+CourseId70185

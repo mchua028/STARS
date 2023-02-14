@@ -1,0 +1,27 @@
+Object Oriented Design & Programming, CourseId10198
+Object Oriented Design & Programming, CourseId10199
+Object Oriented Design & Programming, CourseId10203
+Object Oriented Design & Programming, CourseId10200
+Object Oriented Design & Programming, CourseId10201
+Defence Science, CourseId70185
+Probability & Introduction to Statistics, CourseId71050
+Probability & Introduction to Statistics, CourseId71051
+Probability & Introduction to Statistics, CourseId71052
+Probability & Introduction to Statistics, CourseId71053
+Probability & Introduction to Statistics, CourseId71055
+Principles of Econometrics, CourseId19527
+Principles of Econometrics, CourseId19528
+Principles of Econometrics, CourseId19529
+Principles of Econometrics, CourseId19530
+Principles of Econometrics, CourseId19531
+Introduction to Psychology, CourseId19701
+Introduction to Psychology, CourseId19702
+Introduction to Psychology, CourseId19703
+Introduction to Psychology, CourseId19704
+Introduction to Psychology, CourseId19705
+
+
+
+Algorithm, CourseId1003
+Algorithm, CourseId1002
+Object Oriented Design & Programming, CourseId10202

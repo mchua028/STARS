@@ -1,0 +1,14 @@
+Introduction to Psychology
+HP1000
+3
+SSS
+courseIndex19701,Total Size:5,Vacancy:5,Lecture Day:1,Lecture Start Time:1430,Lecture End Time:1630,Tutorial Day:2,Tutorial Start Time:1230,Tutorial End Time:1330,Lab Day:0,Lab Start Time:0,Lab End Time:0
+courseIndex19702,Total Size:1,Vacancy:0,Lecture Day:1,Lecture Start Time:1430,Lecture End Time:1630,Tutorial Day:5,Tutorial Start Time:1130,Tutorial End Time:1230,Lab Day:0,Lab Start Time:0,Lab End Time:0
+courseIndex19703,Total Size:3,Vacancy:3,Lecture Day:1,Lecture Start Time:1430,Lecture End Time:1630,Tutorial Day:3,Tutorial Start Time:1030,Tutorial End Time:1130,Lab Day:0,Lab Start Time:0,Lab End Time:0
+courseIndex19704,Total Size:2,Vacancy:2,Lecture Day:1,Lecture Start Time:1430,Lecture End Time:1630,Tutorial Day:3,Tutorial Start Time:1130,Tutorial End Time:1230,Lab Day:0,Lab Start Time:0,Lab End Time:0
+courseIndex19705,Total Size:4,Vacancy:4,Lecture Day:1,Lecture Start Time:1430,Lecture End Time:1630,Tutorial Day:4,Tutorial Start Time:830,Tutorial End Time:930,Lab Day:0,Lab Start Time:0,Lab End Time:0
+CourseId19701
+CourseId19702#Student:CHUA MING HUI,female,Singaporean
+CourseId19703
+CourseId19704
+CourseId19705

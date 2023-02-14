@@ -1,0 +1,10 @@
+AU:9
+removed
+Principles of Econometrics,Registered,courseIndex19528,Lecture Day:3,Lecture Start Time:930,Lecture End Time:1130,Tutorial Day:4,Tutorial Start Time:1230,Tutorial End Time:1430,Lab Day:0,Lab Start Time:0,Lab End Time:0,
+Introduction to Psychology,Registered,courseIndex19702,Lecture Day:1,Lecture Start Time:1430,Lecture End Time:1630,Tutorial Day:5,Tutorial Start Time:1130,Tutorial End Time:1230,Lab Day:0,Lab Start Time:0,Lab End Time:0,
+removed
+removed
+removed
+removed
+removed
+Object Oriented Design & Programming,Registered,courseIndex10203,Lecture Day:1,Lecture Start Time:8,Lecture End Time:9,Tutorial Day:2,Tutorial Start Time:9,Tutorial End Time:10,Lab Day:3,Lab Start Time:10,Lab End Time:11,

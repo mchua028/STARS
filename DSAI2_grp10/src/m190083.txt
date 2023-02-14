@@ -1,0 +1,3 @@
+AU:3
+removed
+Object Oriented Design & Programming,Registered,courseIndex10201,Lecture Day:1,Lecture Start Time:8,Lecture End Time:9,Tutorial Day:2,Tutorial Start Time:9,Tutorial End Time:10,Lab Day:3,Lab Start Time:10,Lab End Time:11,

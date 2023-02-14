@@ -1,0 +1,14 @@
+Object Oriented Design & Programming
+CZ2002
+3
+scse
+courseIndex10199,Total Size:10,Vacancy:10,Lecture Day:1,Lecture Start Time:8,Lecture End Time:9,Tutorial Day:2,Tutorial Start Time:9,Tutorial End Time:10,Lab Day:3,Lab Start Time:10,Lab End Time:11
+courseIndex10203,Total Size:1,Vacancy:0,Lecture Day:1,Lecture Start Time:8,Lecture End Time:9,Tutorial Day:2,Tutorial Start Time:9,Tutorial End Time:10,Lab Day:3,Lab Start Time:10,Lab End Time:11
+courseIndex10200,Total Size:10,Vacancy:10,Lecture Day:2,Lecture Start Time:930,Lecture End Time:1030,Tutorial Day:2,Tutorial Start Time:1030,Tutorial End Time:1130,Lab Day:6,Lab Start Time:830,Lab End Time:1030
+courseIndex10201,Total Size:10,Vacancy:9,Lecture Day:1,Lecture Start Time:8,Lecture End Time:9,Tutorial Day:2,Tutorial Start Time:9,Tutorial End Time:10,Lab Day:3,Lab Start Time:10,Lab End Time:11
+CourseId10199
+CourseId10203#Student:CHUA MING HUI,female,Singaporean
+CourseId10200
+CourseId10201#Student:NG PEK HAN,female,Singaporean
+courseIndex10202,Total Size:10,Vacancy:10,Lecture Day:2,Lecture Start Time:930,Lecture End Time:1030,Tutorial Day:5,Tutorial Start Time:1130,Tutorial End Time:1230,Lab Day:5,Lab Start Time:1230,Lab End Time:1530
+CourseId10202
